@@ -15,7 +15,7 @@ The `messages` parameter defines the conversation history and context. It is an 
 The model will generate a response based on the entire conversation context.
 
 **Example:**
-```json
+
 [
   {"role": "system", "content": "You are a helpful assistant."},
   {"role": "user", "content": "What's the weather like today?"}
