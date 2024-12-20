@@ -1,0 +1,5 @@
+- **API**: An Application Programming Interface (API) is a set of protocols and tools that allow different software applications to communicate and share functionality.  
+- **SDK**: A Software Development Kit (SDK) is a collection of tools, libraries, and documentation for developers to build applications for a specific platform or framework.  
+- **Web APIs**: Web APIs are APIs accessible over the internet using HTTP/HTTPS, allowing applications to interact with web-based services or resources.  
+- **Library APIs**: Library APIs provide predefined methods and functionalities in a software library to streamline development without rewriting code.  
+- **Prompting and Completion**: This involves interacting with LLMs by providing a prompt (input) and receiving a completion (output) based on the model's learned data.  
